@@ -1,6 +1,6 @@
 Download [ `THIS` ](https://drive.google.com/file/d/1PfaXViODtQ7cbEuZ0yfFU9RxBBK7IyBj/view?usp=sharing) as project starter.
 
-Submit your test to `iiem.ahmad@ukur.com` via Email with subject `TEST MOBILE DEVELOPER` and attach your compliled app with `source code` or `github repo link`.
+Submit your project to `iiem.ahmad@ukur.com` via Email with subject `TEST MOBILE DEVELOPER` and attach your compliled app with `source code` or `github repo link`.
 
 ---
 
@@ -19,7 +19,6 @@ query parameters = {'page' : <int>PAGE_ID}; // PAGE_ID start from 0
 // If this occurs, you are allowed to mock the data using the users_responses.json file. 
 ```
 
-The tests is :
  
 1. Create a page that displays a list of users from the request to the endpoint above and display it using the `LAZY LOAD` strategy.
 2. Create a feature to `search for users` using `name`,  `company` name,  or `both` as parameters.

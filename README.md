@@ -1,6 +1,6 @@
 Download [ `THIS` ](https://drive.google.com/file/d/1PfaXViODtQ7cbEuZ0yfFU9RxBBK7IyBj/view?usp=sharing) as project starter.
 
-Submit your test to `iiem.ahmad@ukur.com` via Email with subject `TEST MOBILE DEVELOPER` , and attach your compliled app with `source code` or `github repo link`.
+Submit your test to `iiem.ahmad@ukur.com` via Email with subject `TEST MOBILE DEVELOPER` and attach your compliled app with `source code` or `github repo link`.
 
 ---
 

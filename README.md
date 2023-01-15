@@ -20,7 +20,7 @@ query parameters = {'page' : <int>PAGE_ID}; // PAGE_ID start from 0
 ```
 
  
-1. Create a page that displays a list of users from the request to the endpoint above and display it using the `LAZY LOAD` strategy.
+1. Create a page that displays a `list of users` from the request to the endpoint above and display it using the `LAZY LOAD` strategy.
 2. Create a feature to `search for users` using `name`,  `company` name,  or `both` as parameters.
 3. Create a feature to `filter users` using the `registered` (parameter) date range.
 4. Create a feature to `filter users` using `isActive` and `gender` as parameters.
